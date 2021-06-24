@@ -1,7 +1,9 @@
 
 ## Todolist
 
-In the project directory, you can run:
+This project is built using `React`. `Javascript` is used. As other front-end technologies, `Html` and `Css` were used.`Bootstrap` used is a lot. `Context API` is used.
+
+
 
 ### `npm start`
 
