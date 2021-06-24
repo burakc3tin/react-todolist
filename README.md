@@ -5,10 +5,10 @@ The purpose of this project is to store a task list. Tasks can be added, used as
 
 This project is built using `React`. `Javascript` is used. As other front-end technologies, `Html` and `Css` were used.`Bootstrap` used is a lot. `Context API` is used.
 
-### `Canlı`
+### `Live Project`
 
-Runs the app in the development mode.\
-Open [Buradan](http://www.google.com.tr) to view it in the browser.
+ [Click to go to live project
+](https://react-todolist-burak.herokuapp.com/) 
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
