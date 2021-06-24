@@ -16,7 +16,9 @@ This project is built using `React`. `Javascript` is used. As other front-end te
  [Click to go to youtube video.
 ](https://youtu.be/4ZHJNhsUP_4)  
 
-### `npm run build`
+### `Screenshots`
+
+![alt text](https://i.hizliresim.com/ajdsehw.PNG)
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
