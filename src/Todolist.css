@@ -1,0 +1,85 @@
+body {
+ background-color: #E9EE4A;
+ 
+}
+
+.title{
+    font-family: 'Dosis', sans-serif;    font-size: 40px;
+    color:purple;
+}
+
+.title2{
+    border:1px solid #e3b1d2;
+}
+
+.buttonText {
+    font-size: 30px;
+}
+
+.buttonText2{
+    font-size: 10px;
+    background-color: #51BF33;
+    color:white;
+}
+
+.inputText{
+    font-size: 20px;
+}
+
+input:focus, input.form-control:focus {
+
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    border-color: #e3b1d2;
+
+}
+
+ .icon{
+     margin:2px;
+     margin-left: 7px;
+     font-size: 18px;
+
+ }
+.icon:hover{
+    cursor: pointer;
+}
+
+.buttonPosition {
+
+    margin:10px;
+}
+
+.checkBoxStyle{
+    margin-right: 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.todoTable{
+    margin-top: 50px;
+    margin-bottom: 40px;
+   
+}
+
+.editInputText {
+     margin-bottom: 5px;
+}
+
+ 
+ a{    background-color:#e3b1d2 ;
+padding: 5px;
+font-weight: bold;
+     color:white;
+ }
+ a:hover{
+     color:#E9EE4A;
+ }
+
+ .images{
+     width: 50px;
+     height: 50px;
+     margin-right: 5px;
+ }
