@@ -8,7 +8,7 @@ This project is built using `React`. `Javascript` is used. As other front-end te
 ### `Live Project`
 
  [Click to go to live project
-](https://react-todolist-burak.herokuapp.com/) 
+](https://todolistnotesreact.netlify.app/) 
 
  
 ### `Youtube Video`
