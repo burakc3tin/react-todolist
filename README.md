@@ -18,6 +18,5 @@ This project is built using `React`. `Javascript` is used. As other front-end te
 
 ### `Screenshots`
 
-![alt text](https://i.hizliresim.com/ajdsehw.PNG)
-
-
+ 
+<img src="https://i.hizliresim.com/ajdsehw.PNG" width=50% height=50%>
